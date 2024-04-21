@@ -1,4 +1,4 @@
-<image src="./Linkedin_Banner.png" alt="Banner de Cabezera">
+<image src="./Linkendin_Banner.png" alt="Banner de Cabezera">
   
 # RamTech Solutions
   
