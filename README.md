@@ -1,5 +1,5 @@
 
-![Descripción de la imagen]("/Linkedin Banner.png")
+<image src="Linkedin Banner.png" alt="Cabezera">
 
 # RamTech Solutions
 
